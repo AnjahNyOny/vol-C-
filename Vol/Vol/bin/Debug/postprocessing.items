@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Vol.app/Contents/MacOS/Vol">
+      <BCSymbolMapName>Vol.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Vol.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/mac/Projects/C#/Vol/Vol/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Vol.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/mac/Projects/C#/Vol/Vol</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
